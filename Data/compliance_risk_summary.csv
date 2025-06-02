@@ -1,0 +1,16 @@
+system_name,regulation,total_logs,unresolved_issues,total_risk_score
+System_1,CMMC,344,192,664
+System_1,GDPR,357,169,704
+System_1,NIST,344,174,711
+System_2,CMMC,351,162,701
+System_2,GDPR,344,169,688
+System_2,NIST,330,180,661
+System_3,CMMC,330,172,655
+System_3,GDPR,298,137,593
+System_3,NIST,344,167,705
+System_4,CMMC,294,121,608
+System_4,GDPR,314,166,608
+System_4,NIST,340,178,694
+System_5,CMMC,327,158,623
+System_5,GDPR,346,199,696
+System_5,NIST,337,163,723
